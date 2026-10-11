@@ -36,19 +36,13 @@ Database  : SQLite | PostgreSQL
 Systems   : Linux (Ubuntu) | Bash / Shell Scripting | Git
 ```
 
-<div align="center">
-  <!-- Main GitHub Stats Card -->
-  <img height="325" src="https://github-readme-stats.vercel.app/api?username=Galon123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&border_radius=8" alt="Galon's GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galon123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css&border_radius=8" alt="Top Languages" />
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Galon123&show_icons=true&include_all_commits=true&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117)](https://github.com/Galon123)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Galon123&layout=compact&langs_count=6&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117)](https://github.com/Galon123)
+
+<br>
+
+[![Streak](https://streak-stats.demolab.com?user=Galon123&theme=transparent&hide_border=true&ring=FF5F56&fire=D1D5DB&currStreakLabel=FF5F56&currStreakNum=D1D5DB&dates=9CA3AF&sideLabels=9CA3AF&sideNums=D1D5DB&background=0D1117)](https://github.com/Galon123)
+<br>
+
 </div>
-
-<br />
-
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img height="325" src="https://github-readme-streak-stats.herokuapp.com/?user=Galon123&theme=tokyonight&hide_border=true&border_radius=8" alt="Galon's Commit Streak" />
-</div>
-
-<br />
